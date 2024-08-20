@@ -1,5 +1,6 @@
-Nome: Lucas Felipe Coelho
-      Luciana Wessner Sampaio
+<strong> Nome: </strong> Lucas Felipe Coelho
+                         Luciana Wessner Sampaio
+      
+<strong> Turma: </strong>  Análise de Desenvolvimento de Sistemas. <br>
 
-Turma: Análise de Desenvolvimento de Sistemas.
-Turno: Noite.
+<strong>Turno: </strong> Noite.
