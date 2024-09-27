@@ -7,12 +7,12 @@
 // Nome Integrantes: Lucas Coelho e Luciana Wessner
 
 
-// Classe base Animal, que pode ser estendida por outras classes
-open class Animal(val nome: String, val idade: Int) {
+// Subclasse Cachorro que herda da classe Animal
+class Cachorro(nome: String, idade: Int, val raca: String) : Animal(nome, idade) {
     
-    // Método para mostrar as informações do animal
-    fun mostrarInformacoes() {
-        // Imprime o nome e a idade do animal
-        println("Nome: $nome, Idade: $idade")
+    // Método específico da classe Cachorro
+    fun latir() {
+        // Imprime uma mensagem indicando que o cachorro está latindo
+        println("O cachorro está latindo!")
     }
 }
